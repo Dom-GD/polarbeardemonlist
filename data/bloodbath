@@ -9,6 +9,12 @@
     "password": "idk",
     "records": [
         {
+            "user": "Anoamly",
+            "link": "https://www.youtube.com/watch?v=vTNUd8wAHDE",
+            "percent": 100,
+            "hz": 480
+        },
+        {
             "user": "Foxxgod",
             "link": "https://www.youtube.com/watch?v=nNS8KDvZMh0",
             "percent": 100,
