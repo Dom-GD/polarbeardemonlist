@@ -1,0 +1,24 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": Neigefeu",
+    "creators": ["Neigefeu"],
+    "verifier": "Neigefeu",
+    "verification": "https://www.youtube.com/watch?v=z6l74Mkoxm8",
+    "percentToQualify": "63",
+    "password": "idk",
+    "records": [
+        {
+            "user": "DomisorusRex",
+            "link": "https://www.youtube.com/watch?v=qvwgV3llXSM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Anomaly",
+            "link": "https://www.youtube.com/watch?v=b8Ivy5NE3ww&list=PL6MSDzDuUqidJHLkcAMb4aYb5fpkEgqqX",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
+}
