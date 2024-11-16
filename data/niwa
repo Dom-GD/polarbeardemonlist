@@ -1,0 +1,24 @@
+{
+    "id": 87425029,
+    "name": "Niwa",
+    "author": "Teno",
+    "creators": ["Teno & More"],
+    "verifier": "Neigefeu",
+    "verification": "https://www.youtube.com/watch?v=1tven_pFftA",
+    "percentToQualify": "59",
+    "password": "idk",
+    "records": [
+        {
+            "user": "DomisorusRex",
+            "link": "https://medal.tv/clips/2brCGR7Ywwo1UC/vpveehNUO?invite=cr-MSxLYTgsMjE4Njc2Nzc1LA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Twisted",
+            "link": "https://www.youtube.com/watch?v=iE5cVDu0Fc8&list=PL1i8wIIrbKlgnslr6krfZvnw4k1AruNt6&index=7",
+            "percent": 100,
+            "hz": 165
+        }
+    ]
+}
