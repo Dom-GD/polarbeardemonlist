@@ -1,0 +1,18 @@
+{
+    "id": 93939369,
+    "name": "The Ultimate Demon",
+    "author": "Vit12",
+    "creators": ["Vit12"],
+    "verifier": "LordVaderCraft",
+    "verification": "https://www.youtube.com/watch?v=C-LFHgp-oU0",
+    "percentToQualify": "56",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DomisorusRex",
+            "link": "https://medal.tv/games/geometry-dash/clips/iD4s3mYwmrXKPFbIO?invite=cr-MSxRTEYsMjE4Njc2Nzc1LA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
