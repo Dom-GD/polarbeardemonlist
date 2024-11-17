@@ -1,0 +1,19 @@
+
+{
+    "id": 86412942,
+    "name": "Knights of Thunder",
+    "author": "HangerLord",
+  "creators": ["HangerLord & More"],
+    "verifier": "Helix",
+    "verification": "https://youtu.be/npIZ8TGMDvk",
+    "percentToQualify": "57",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jackpotgodzilla",
+            "link": "https://www.youtube.com/watch?v=RB3I8J4iQgc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
