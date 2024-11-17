@@ -1,0 +1,18 @@
+{
+    "id": 52919433,
+    "name": "Carcano",
+    "author": "Asuith",
+    "creators": ["Asuith & More"],
+    "verifier": "Kapinapi",
+    "verification": "https://www.youtube.com/watch?v=jQPCXcekS-Y",
+    "percentToQualify": "59",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Jackpotgodzilla",
+            "link": "https://www.youtube.com/watch?v=J9e1oVYwUEg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
