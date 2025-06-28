@@ -3,26 +3,14 @@
     "name": "Troll Level",
     "author": "Lexycat",
     "creators": ["Lexycat & More"],
-    "verifier": "Johnfree",
-    "verification": "https://www.youtube.com/watch?v=eqYr6MLwJE4",
+    "verifier": "DomisorusRex",
+    "verification": "https://www.youtube.com/watch?v=6Q9SqYYNrtk&t=",
     "percentToQualify": "61",
     "password": "idk",
     "records": [
         {
-            "user": "DomisorusRex",
-            "link": "https://www.youtube.com/watch?v=6Q9SqYYNrtk&t=",
-            "percent": 100,
-            "hz": 240
-        },
-          {
-            "user": "Jackpotgodzilla",
-            "link": "https://www.youtube.com/watch?v=_8DGW-ZYAmI",
-            "percent": 100,
-            "hz": 240
-        },
-         {
-            "user": "Foxxgod",
-            "link": "https://youtu.be/PHBEqwUwh4k?si=qkGF2mWsvjBLBnqF",
+            "user": "",
+            "link": "",
             "percent": 100,
             "hz": 240
         }
